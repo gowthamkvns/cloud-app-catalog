@@ -3,9 +3,7 @@
 A modern, full-stack cloud resource management system built with **Spring Boot** (Java) and **React + Vite**. This project demonstrates a complete Cloud-Native workflow: from a containerized backend to a managed PostgreSQL database on Supabase.
 
 ## 🚀 Live Demo
-**Frontend:** [https://cloud-app-catalog-eight.vercel.app](https://cloud-app-catalog-eight.vercel.app)  
-**Backend API:** [https://cloud-app-backend-rkh4.onrender.com/api/applications](https://cloud-app-backend-rkh4.onrender.com/api/applications)  
-*(Note: Uses Render Free Tier; please allow ~50s for the cold-start if the site is idle.)*
+**Live link:** [https://cloud-app-catalog-eight.vercel.app]
 
 ---
 
