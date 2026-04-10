@@ -5,7 +5,7 @@ const Index = () => {
 
   useEffect(() => {
     // This fetches data from your JAVA BACKEND
-    fetch("http://localhost:8080/api/applications")
+    fetch("https://cloud-app-backend-rkh4.onrender.com/api/applications")
       .then((res) => res.json())
       .then((data) => setApps(data))
       .catch((err) => console.error("Could not fetch apps:", err));
