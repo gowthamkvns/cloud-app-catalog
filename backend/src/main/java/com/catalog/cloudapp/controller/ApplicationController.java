@@ -9,7 +9,6 @@ import java.util.List;
 @CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/applications")
-@CrossOrigin(origins = "*") 
 public class ApplicationController {
 
     private final ApplicationService service;
